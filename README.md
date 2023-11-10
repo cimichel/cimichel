@@ -37,10 +37,11 @@ Languages and tools 🪛🔮
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" **alt="Tailwind" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Tailwind" **alt="Tailwind" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" **alt="Typescript" width="40" height="40"/>
+</div>
 
-
-
-    
+<div align="center">
+  <h3>I'm currently looking for a job</h3>
+    <img src="https://i.imgur.com/rokBjr3.jpg" width="350"/>
 </div>
 
 <!--
