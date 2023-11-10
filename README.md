@@ -1,20 +1,23 @@
 ### Hello! Welcome to my Github 👋
 <div align="center">
-  <img src="https://media.giphy.com/media/3xz2Bw12fe9iyG06v6/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3xz2Bw12fe9iyG06v6/giphy.gif" width="200"/>
 </div>
 
 <div align="center">
-  
+  👾 My name is Cintia and I am a Software Developer👾
+  <br/>
+  🇧🇷 living in 🇦🇺
 </div>
 
 <h3 align="center">
-<img src="https://komarev.com/ghpvc/?username=cimichel&style=flat-square&color=blue" alt=""/>
+Languages and tools 🪛🔮
 </h3>
 
 <hr>
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="NextJs" alt="NextJs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
