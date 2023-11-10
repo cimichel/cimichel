@@ -1,7 +1,6 @@
 ### Hi there 👋
 <div align="center">
-<img src="https://tenor.com/pt-BR/view/switch_dayz-dayz-snoopy-dog-snoopy-gif-23635262" alt="snoopy" align="center">
-</div>
+<div class="tenor-gif-embed" data-postid="17619277" data-share-method="host" data-aspect-ratio="1.32231" data-width="100%"><a href="https://tenor.com/view/migalhas-pica-pau-migalhas-sad-asking-gif-17619277">Migalhas Pica Pau Migalhas GIF</a>from <a href="https://tenor.com/search/migalhas-gifs">Migalhas GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script></div>
 
 <div align="center">
 WELCOME
