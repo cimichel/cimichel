@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center">
-<img src="[https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif](https://tenor.com/pt-BR/view/switch_dayz-dayz-snoopy-dog-snoopy-gif-23635262)" alt="Fan" align="center">
+<img src="https://tenor.com/pt-BR/view/switch_dayz-dayz-snoopy-dog-snoopy-gif-23635262" alt="snoopy" align="center">
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@ WELCOME
 
 <h3 align="center">
 <a href="">I'm looking for a job
-<img src="[https://github.com/fnky/fnky/raw/fnky/img/website.gif](https://tenor.com/pt-BR/view/migalhas-pica-pau-migalhas-sad-asking-gif-17619277)" alt="Visit homepage" align="center">
+<img src="https://tenor.com/pt-BR/view/migalhas-pica-pau-migalhas-sad-asking-gif-17619277" alt="Visit homepage" align="center">
 </a>
 </h3>
 
