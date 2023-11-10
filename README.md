@@ -4,11 +4,13 @@
 </div>
 
 <div align="center">
-  👾 My name is Cintia and I am a Software Developer👾
-  <br/>
-  🇧🇷 living in 🇦🇺
+  <h3>How everything started</h3>
+    <img src="https://i.imgur.com/SH5LHyh.jpeg" width="350"/>
 </div>
 
+<div align="center">
+  <h3>How it is going</h3>
+</div>
 <h3 align="center">
 Languages and tools 🪛🔮
 </h3>
