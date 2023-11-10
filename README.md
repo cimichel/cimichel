@@ -1,15 +1,14 @@
-### Hi there 👋
+### Hello! Welcome to my Github 👋
 <div align="center">
-<div class="tenor-gif-embed" data-postid="17619277" data-share-method="host" data-aspect-ratio="1.32231" data-width="100%"><a href="https://tenor.com/view/migalhas-pica-pau-migalhas-sad-asking-gif-17619277">Migalhas Pica Pau Migalhas GIF</a>from <a href="https://tenor.com/search/migalhas-gifs">Migalhas GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script></div>
+  <img src="https://media.giphy.com/media/3xz2Bw12fe9iyG06v6/giphy.gif" width="100"/>
+</div>
 
 <div align="center">
-WELCOME
+  
 </div>
 
 <h3 align="center">
-<a href="">I'm looking for a job
-<img src="https://tenor.com/pt-BR/view/migalhas-pica-pau-migalhas-sad-asking-gif-17619277" alt="Visit homepage" align="center">
-</a>
+<img src="https://komarev.com/ghpvc/?username=cimichel&style=flat-square&color=blue" alt=""/>
 </h3>
 
 <hr>
